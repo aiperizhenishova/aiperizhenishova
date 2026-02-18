@@ -1,7 +1,6 @@
 ## Hi, I'm Aiperi ✨
 
-🎀Computer Science student at Ala-Too International University.<br/> 
-💕I try to practice coding regularly.<br/>
+Computer Science student at Ala-Too International University.<br/> 
 
 
 
